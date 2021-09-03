@@ -1931,7 +1931,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/pretty@npm:^2":
+"@types/pretty@npm:2.0.0":
   version: 2.0.0
   resolution: "@types/pretty@npm:2.0.0"
   checksum: 9ea05a79632b08952fb0f07be6aeed2c5b8c8738b88c9d318db02504c59be4601704d6182c6b727d81b646c191f7cf0dea6e3862ec0cbc3e5f765524922c2922
@@ -4179,7 +4179,7 @@ fsevents@~2.3.2:
     "@types/eslint": 7.28.0
     "@types/micromatch": 4.0.2
     "@types/node": 16.7.10
-    "@types/pretty": ^2
+    "@types/pretty": 2.0.0
     "@types/semantic-release": 17.2.1
     "@typescript-eslint/eslint-plugin": 4.30.0
     "@typescript-eslint/parser": 4.30.0
