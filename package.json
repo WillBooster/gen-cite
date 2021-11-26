@@ -65,7 +65,7 @@
     "lint-staged": "11.2.6",
     "micromatch": "4.0.4",
     "pinst": "2.1.6",
-    "prettier": "2.4.1",
+    "prettier": "2.5.0",
     "rollup": "2.60.1",
     "rollup-plugin-node-externals": "2.2.0",
     "semantic-release": "17.4.7",
@@ -75,5 +75,5 @@
   "engines": {
     "node": ">=12"
   },
-  "packageManager": "yarn@3.2.0-rc.5"
+  "packageManager": "yarn@3.2.0-rc.6"
 }
