@@ -1750,9 +1750,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/plugin-node-resolve@npm:13.1.2":
-  version: 13.1.2
-  resolution: "@rollup/plugin-node-resolve@npm:13.1.2"
+"@rollup/plugin-node-resolve@npm:13.1.3":
+  version: 13.1.3
+  resolution: "@rollup/plugin-node-resolve@npm:13.1.3"
   dependencies:
     "@rollup/pluginutils": ^3.1.0
     "@types/resolve": 1.17.1
@@ -1762,7 +1762,7 @@ __metadata:
     resolve: ^1.19.0
   peerDependencies:
     rollup: ^2.42.0
-  checksum: b75cd8f8110a3001fa6af76fb0feb0ebfe96d6394383147276106f11d296307719aec58364b92f402723749b74e6de82d002570d3accfaede572ad3b1d8534ba
+  checksum: c275843aef884ff15ed7edb8a3b8fd072a72d517632098f6e9c25ef2c00f7842559565cc77e16c59eb119b8c4e2d858a8b5a94701ca6f85ae6a4f60a6e31f0ab
   languageName: node
   linkType: hard
 
@@ -1964,10 +1964,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.17":
-  version: 16.11.17
-  resolution: "@types/node@npm:16.11.17"
-  checksum: 86ed84f79450f6aba1a6ef09f8407c10076966c3cc7cc4eb3d35b8ae4f47817e525641396ef0a667fa0a88fcdf484f6182812c074601403083bdf3b5e1ac0313
+"@types/node@npm:16.11.19":
+  version: 16.11.19
+  resolution: "@types/node@npm:16.11.19"
+  checksum: a9ba0cd1e61c8ad50f3fc9c2b37b795bf0286dacb39dcc985da90328abf0c5151dffe9932d20bc9a6a52c3ce7bfc1e5a7c2dc1416480fb84f1c2d70e25caeba0
   languageName: node
   linkType: hard
 
@@ -3109,14 +3109,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"core-js@npm:3.20.1":
-  version: 3.20.1
-  resolution: "core-js@npm:3.20.1"
-  checksum: e45f4f4b5c64d4650d46075b1fa8845c62ea08f5c30ee92ffc14b95147b4a9eb511c8a1184a31d03660061a8570a9610e598e30981afc2d2f8bca460f63dd3cb
-  languageName: node
-  linkType: hard
-
-"core-js@npm:^3.19.0":
+"core-js@npm:3.20.2, core-js@npm:^3.19.0":
   version: 3.20.2
   resolution: "core-js@npm:3.20.2"
   checksum: dc055a5a79f2e3c2e060b4fb8a3e228fa0de16464bff3c6605646183139eebaa68c390ec6d9c3acc5677f333df510b977ee3f1d5992e6c36b1f200e35f5ed8ca
@@ -3831,7 +3824,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-module-utils@npm:^2.7.1":
+"eslint-module-utils@npm:^2.7.2":
   version: 2.7.2
   resolution: "eslint-module-utils@npm:2.7.2"
   dependencies:
@@ -3841,26 +3834,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-import@npm:2.25.3":
-  version: 2.25.3
-  resolution: "eslint-plugin-import@npm:2.25.3"
+"eslint-plugin-import@npm:2.25.4":
+  version: 2.25.4
+  resolution: "eslint-plugin-import@npm:2.25.4"
   dependencies:
     array-includes: ^3.1.4
     array.prototype.flat: ^1.2.5
     debug: ^2.6.9
     doctrine: ^2.1.0
     eslint-import-resolver-node: ^0.3.6
-    eslint-module-utils: ^2.7.1
+    eslint-module-utils: ^2.7.2
     has: ^1.0.3
     is-core-module: ^2.8.0
     is-glob: ^4.0.3
     minimatch: ^3.0.4
     object.values: ^1.1.5
     resolve: ^1.20.0
-    tsconfig-paths: ^3.11.0
+    tsconfig-paths: ^3.12.0
   peerDependencies:
     eslint: ^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8
-  checksum: 8bdf4b1fafb0e5c8f57a1673f72d84307d32c06a23942990d198c8b32a85a5ae0098872d1ef5bf80d7dfe8ec542f6a671e3c5e706731a80b493c9015f7a147f5
+  checksum: 0af24f5c7c6ca692f42e3947127f0ae7dfe44f1e02740f7cbe988b510a9c52bab0065d7df04e2d953dcc88a4595a00cbdcf14018acf8cd75cfd47b72efcbb734
   languageName: node
   linkType: hard
 
@@ -4398,10 +4391,10 @@ __metadata:
     "@babel/preset-typescript": 7.16.7
     "@rollup/plugin-babel": 5.3.0
     "@rollup/plugin-commonjs": 20.0.0
-    "@rollup/plugin-node-resolve": 13.1.2
+    "@rollup/plugin-node-resolve": 13.1.3
     "@types/eslint": 7.29.0
     "@types/micromatch": 4.0.2
-    "@types/node": 16.11.17
+    "@types/node": 16.11.19
     "@types/pretty": 2.0.1
     "@types/semantic-release": 17.2.3
     "@typescript-eslint/eslint-plugin": 4.33.0
@@ -4411,12 +4404,12 @@ __metadata:
     "@willbooster/renovate-config": 6.5.0
     babel-plugin-transform-remove-console: 6.9.4
     cheerio: 1.0.0-rc.10
-    core-js: 3.20.1
+    core-js: 3.20.2
     esbuild: 0.14.10
     eslint: 7.32.0
     eslint-config-prettier: 8.3.0
     eslint-import-resolver-node: 0.3.6
-    eslint-plugin-import: 2.25.3
+    eslint-plugin-import: 2.25.4
     husky: 7.0.4
     lint-staged: 11.2.6
     micromatch: 4.0.4
@@ -4424,7 +4417,7 @@ __metadata:
     pinst: 2.1.6
     prettier: 2.5.1
     pretty: 2.0.0
-    rollup: 2.62.0
+    rollup: 2.63.0
     rollup-plugin-node-externals: 3.1.2
     semantic-release: 17.4.7
     sort-package-json: 1.53.1
@@ -7574,9 +7567,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:2.62.0":
-  version: 2.62.0
-  resolution: "rollup@npm:2.62.0"
+"rollup@npm:2.63.0":
+  version: 2.63.0
+  resolution: "rollup@npm:2.63.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -7584,7 +7577,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: 9dfa089a232346bc548bf5110e79e0cf5a2dac6fb9bf3f737a645e72795b4b4a1165d1bf86938f90805c4391e8dd571557afb901aaf81dcb82690c57737ab128
+  checksum: 23db16ea9d222ad5ae9620ba51d4f45c834927038c1e43d87f7dd3d240aa54422e51c2660437479af4b771e13f9529df236a3d43a3b9f4229bf241347d5f2c8f
   languageName: node
   linkType: hard
 
@@ -8345,7 +8338,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tsconfig-paths@npm:^3.11.0":
+"tsconfig-paths@npm:^3.12.0":
   version: 3.12.0
   resolution: "tsconfig-paths@npm:3.12.0"
   dependencies:
