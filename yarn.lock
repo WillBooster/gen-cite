@@ -1764,9 +1764,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rollup/plugin-babel@npm:5.3.0":
-  version: 5.3.0
-  resolution: "@rollup/plugin-babel@npm:5.3.0"
+"@rollup/plugin-babel@npm:5.3.1":
+  version: 5.3.1
+  resolution: "@rollup/plugin-babel@npm:5.3.1"
   dependencies:
     "@babel/helper-module-imports": ^7.10.4
     "@rollup/pluginutils": ^3.1.0
@@ -1777,7 +1777,7 @@ __metadata:
   peerDependenciesMeta:
     "@types/babel__core":
       optional: true
-  checksum: 6cfd741790f125968cbd0fc91b6f54e235033e31853a12190f725ccf95a6eb2f1387b6368be80dedfa94536d2e84739e7af45c8b2fe7a450e91c2aeb6170867d
+  checksum: 220d71e4647330f252ef33d5f29700aef2e8284a0b61acfcceb47617a7f96208aa1ed16eae75619424bf08811ede5241e271a6d031f07026dee6b3a2bdcdc638
   languageName: node
   linkType: hard
 
@@ -2019,10 +2019,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.11.25":
-  version: 16.11.25
-  resolution: "@types/node@npm:16.11.25"
-  checksum: 0b6e25a81364be89256ad1a36341e27b387e646d3186e270108a8bb7b6ecdfdf5ae037aa1c75a5117b8a7509c80093b75431cd5cfcfbc4d553b52e7db2ca272e
+"@types/node@npm:16.11.26":
+  version: 16.11.26
+  resolution: "@types/node@npm:16.11.26"
+  checksum: 57757caaba3f0d95de82198cb276a1002c49b710108c932a1d02d7c91ff2fa57cfe2dd19fde60853b6dd90b0964b3cf35557981d2628e20aed6a909057aedfe6
   languageName: node
   linkType: hard
 
@@ -3750,14 +3750,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:8.3.0":
-  version: 8.3.0
-  resolution: "eslint-config-prettier@npm:8.3.0"
+"eslint-config-prettier@npm:8.4.0":
+  version: 8.4.0
+  resolution: "eslint-config-prettier@npm:8.4.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: df4cea3032671995bb5ab07e016169072f7fa59f44a53251664d9ca60951b66cdc872683b5c6a3729c91497c11490ca44a79654b395dd6756beb0c3903a37196
+  checksum: ee8dc343f1fed15dc0658e190a966cc23644477f2331a7f56ae2bb79dd74892e3cde8ea5c142e7a3329a8291a1de041e13ca96e54d0c85ff4a2aba13390c5f10
   languageName: node
   linkType: hard
 
@@ -4282,12 +4282,12 @@ __metadata:
     "@babel/plugin-proposal-numeric-separator": 7.16.7
     "@babel/preset-env": 7.16.11
     "@babel/preset-typescript": 7.16.7
-    "@rollup/plugin-babel": 5.3.0
+    "@rollup/plugin-babel": 5.3.1
     "@rollup/plugin-commonjs": 20.0.0
     "@rollup/plugin-node-resolve": 13.1.3
     "@types/eslint": 7.29.0
     "@types/micromatch": 4.0.2
-    "@types/node": 16.11.25
+    "@types/node": 16.11.26
     "@types/pretty": 2.0.1
     "@types/semantic-release": 17.2.3
     "@typescript-eslint/eslint-plugin": 4.33.0
@@ -4300,7 +4300,7 @@ __metadata:
     core-js: 3.21.1
     esbuild: 0.14.23
     eslint: 7.32.0
-    eslint-config-prettier: 8.3.0
+    eslint-config-prettier: 8.4.0
     eslint-import-resolver-node: 0.3.6
     eslint-plugin-import: 2.25.4
     husky: 7.0.4
@@ -4310,7 +4310,7 @@ __metadata:
     pinst: 2.1.6
     prettier: 2.5.1
     pretty: 2.0.0
-    rollup: 2.67.3
+    rollup: 2.68.0
     rollup-plugin-node-externals: 4.0.0
     semantic-release: 17.4.7
     sort-package-json: 1.54.0
@@ -7331,9 +7331,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:2.67.3":
-  version: 2.67.3
-  resolution: "rollup@npm:2.67.3"
+"rollup@npm:2.68.0":
+  version: 2.68.0
+  resolution: "rollup@npm:2.68.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -7341,7 +7341,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: c4013a2ceef6918375fd07a6548e05d0f3df1db9f0a0281aebe6e993a45c0e667c5a06f53b55c0ffaf72f72266c1879bc181b13199aace97d93f0fc47691d4a9
+  checksum: c883f6fb2e10e1c79a32527da0c50ef47a7beb8ddacfdae4197ff2d1911fb8d10bb2704496cf878d3048fbf3524d613bc87f25c5be0afc667fe30b7d04fa8092
   languageName: node
   linkType: hard
 
@@ -8158,7 +8158,7 @@ __metadata:
 
 "typescript@patch:typescript@4.5.5#~builtin<compat/typescript>":
   version: 4.5.5
-  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=142761"
+  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=bda367"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
