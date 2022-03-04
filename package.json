@@ -31,7 +31,7 @@
   "prettier": "@willbooster/prettier-config",
   "dependencies": {
     "cheerio": "1.0.0-rc.10",
-    "node-fetch": "3.2.0",
+    "node-fetch": "3.2.1",
     "pretty": "2.0.0"
   },
   "devDependencies": {
@@ -56,9 +56,9 @@
     "@willbooster/renovate-config": "6.5.0",
     "babel-plugin-transform-remove-console": "6.9.4",
     "core-js": "3.21.1",
-    "esbuild": "0.14.23",
+    "esbuild": "0.14.25",
     "eslint": "7.32.0",
-    "eslint-config-prettier": "8.4.0",
+    "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-node": "0.3.6",
     "eslint-plugin-import": "2.25.4",
     "husky": "7.0.4",
@@ -66,11 +66,11 @@
     "micromatch": "4.0.4",
     "pinst": "2.1.6",
     "prettier": "2.5.1",
-    "rollup": "2.68.0",
+    "rollup": "2.69.1",
     "rollup-plugin-node-externals": "4.0.0",
     "semantic-release": "17.4.7",
     "sort-package-json": "1.54.0",
-    "typescript": "4.5.5"
+    "typescript": "4.6.2"
   },
   "engines": {
     "node": ">=12"
