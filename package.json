@@ -31,7 +31,7 @@
   "prettier": "@willbooster/prettier-config",
   "dependencies": {
     "cheerio": "1.0.0-rc.10",
-    "node-fetch": "3.2.2",
+    "node-fetch": "3.2.3",
     "pretty": "2.0.0"
   },
   "devDependencies": {
