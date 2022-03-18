@@ -35,7 +35,7 @@
     "pretty": "2.0.0"
   },
   "devDependencies": {
-    "@babel/core": "7.17.5",
+    "@babel/core": "7.17.7",
     "@babel/node": "7.16.8",
     "@babel/plugin-proposal-class-properties": "7.16.7",
     "@babel/plugin-proposal-numeric-separator": "7.16.7",
@@ -56,7 +56,7 @@
     "@willbooster/renovate-config": "6.5.0",
     "babel-plugin-transform-remove-console": "6.9.4",
     "core-js": "3.21.1",
-    "esbuild": "0.14.25",
+    "esbuild": "0.14.27",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-import-resolver-node": "0.3.6",
@@ -65,8 +65,8 @@
     "lint-staged": "11.2.6",
     "micromatch": "4.0.4",
     "pinst": "2.1.6",
-    "prettier": "2.5.1",
-    "rollup": "2.70.0",
+    "prettier": "2.6.0",
+    "rollup": "2.70.1",
     "rollup-plugin-node-externals": "4.0.0",
     "semantic-release": "17.4.7",
     "sort-package-json": "1.54.0",
