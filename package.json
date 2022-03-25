@@ -63,14 +63,14 @@
     "eslint-plugin-import": "2.25.4",
     "husky": "7.0.4",
     "lint-staged": "11.2.6",
-    "micromatch": "4.0.4",
+    "micromatch": "4.0.5",
     "pinst": "2.1.6",
-    "prettier": "2.6.0",
+    "prettier": "2.6.1",
     "rollup": "2.70.1",
     "rollup-plugin-node-externals": "4.0.0",
     "semantic-release": "17.4.7",
-    "sort-package-json": "1.54.0",
-    "typescript": "4.6.2"
+    "sort-package-json": "1.55.0",
+    "typescript": "4.6.3"
   },
   "engines": {
     "node": ">=12"
