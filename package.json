@@ -64,7 +64,7 @@
     "husky": "7.0.4",
     "lint-staged": "11.2.6",
     "micromatch": "4.0.5",
-    "pinst": "2.1.6",
+    "pinst": "3.0.0",
     "prettier": "2.8.8",
     "rollup": "2.79.1",
     "rollup-plugin-node-externals": "4.1.1",
