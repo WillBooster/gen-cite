@@ -2866,36 +2866,37 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@willbooster/eslint-config-ts@npm:6.5.1":
-  version: 6.5.1
-  resolution: "@willbooster/eslint-config-ts@npm:6.5.1"
+"@willbooster/eslint-config-ts@npm:10.6.0":
+  version: 10.6.0
+  resolution: "@willbooster/eslint-config-ts@npm:10.6.0"
   peerDependencies:
     "@typescript-eslint/eslint-plugin": ">=5"
     "@typescript-eslint/parser": ">=5"
-    "@willbooster/prettier-config": ">=6"
+    "@willbooster/prettier-config": 9.1.2
     eslint: ">=8"
     eslint-config-prettier: ">=8"
+    eslint-import-resolver-typescript: ">=2"
     eslint-plugin-import: ">=2"
     eslint-plugin-sort-class-members: ">=1.14"
     eslint-plugin-sort-destructure-keys: ">=1.4"
     typescript: ">=4"
-  checksum: 2fe715f4dc46b81cdc4b1ed2c77434ad79524bcd86e7044fa35e10a56e3152d6cb73082628e97d5625ac413f1aacbc7b5a2c9a79d2405be63d803052a9601009
+  checksum: f706f89998850235926ce637d7552ccde120f5905af179f01b1fac26532ac16396fe4a908d552350496ffc1efabada5ee79d52b75988d984a22c8ad79336556f
   languageName: node
   linkType: hard
 
-"@willbooster/prettier-config@npm:6.5.1":
-  version: 6.5.1
-  resolution: "@willbooster/prettier-config@npm:6.5.1"
+"@willbooster/prettier-config@npm:9.1.2":
+  version: 9.1.2
+  resolution: "@willbooster/prettier-config@npm:9.1.2"
   peerDependencies:
     prettier: ">=2"
-  checksum: 5edcde5ece467e7882474ca3e91e4f7c6830cfb3d966a3b81f3b1d8a4bb814baf3955e8249246efa5f70acae5e1816531f9845482bdec0145e007f3ab66c6ba4
+  checksum: 425b348413d5bd95a572217a03f12e0f9bc7ca5b0db215f9b69ff6cc1f278a34588472acb04e6b52e56477a66a0a8ff5d7d89ae46163f78cdc7f016102f0a183
   languageName: node
   linkType: hard
 
-"@willbooster/renovate-config@npm:6.5.1":
-  version: 6.5.1
-  resolution: "@willbooster/renovate-config@npm:6.5.1"
-  checksum: 4a35c51d05a7a1667f645ab27d30fd88f818fc072726c83ff15c9bb6d4366f6246d19ab68d7648eca36fcf770c3b9b6fef60db853b6d2d145fb79dd36e8509fc
+"@willbooster/renovate-config@npm:9.5.0":
+  version: 9.5.0
+  resolution: "@willbooster/renovate-config@npm:9.5.0"
+  checksum: a8acfe71ee20e83d14cd9bc11d07e182a6b47c49aab795ac4229a691dcaa337a38f76ece9f28429e56a09e90255d20241025559872ff97baefa06e080c7ecc50
   languageName: node
   linkType: hard
 
@@ -4972,9 +4973,9 @@ __metadata:
     "@types/semantic-release": 17.2.6
     "@typescript-eslint/eslint-plugin": 5.60.0
     "@typescript-eslint/parser": 5.60.0
-    "@willbooster/eslint-config-ts": 6.5.1
-    "@willbooster/prettier-config": 6.5.1
-    "@willbooster/renovate-config": 6.5.1
+    "@willbooster/eslint-config-ts": 10.6.0
+    "@willbooster/prettier-config": 9.1.2
+    "@willbooster/renovate-config": 9.5.0
     babel-plugin-transform-remove-console: 6.9.4
     cheerio: 1.0.0-rc.12
     core-js: 3.31.0
